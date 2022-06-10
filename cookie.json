@@ -1,0 +1,550 @@
+{
+  "cookies": [
+    {
+      "sameSite": "Lax",
+      "name": "Geo",
+      "value": "Continent: EU Country: FI State:  City: HELSINKI",
+      "domain": "static.lightning.force.com",
+      "path": "/na213/l/%7B%22mode%22%3A%22PROD%22%2C%22app%22%3A%22one%3Aone%22%2C%22serializationVersion%22%3A%221-2.5.13-236.5-b%22%2C%22parts%22%3A%22t%22%2C%22loaded%22%3A%7B%22APPLICATION%40markup%3A%2F%2Fone%3Aone%22%3A%22xh37zIu-X-LNhF1IaGznhQ%22%7D%2C%22dns%22%3A%22c%22%2C%22ls%22%3A1%2C%22lrmc%22%3A%221730203071%22%7D",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "Geo",
+      "value": "Continent: EU Country: FI State:  City: HELSINKI",
+      "domain": "static.lightning.force.com",
+      "path": "/na213/auraFW/javascript/2yRFfs4WfGnFrNGn9C_dGg",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "t",
+      "value": "!0vaFlJER5UsrfIGrfKp9YI2pARkJi5YS8O/yCf8GE+6HiX+CvWWacnC3MzF+OXsuC3USJWIP3jamDQ==",
+      "domain": "itfreelance2-dev-ed.lightning.force.com",
+      "path": "/cometd/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false
+    },
+    {
+      "sameSite": "None",
+      "name": "BAYEUX_BROWSER",
+      "value": "8ee81lmiwpsxaedz3l4836nx5s88",
+      "domain": "itfreelance2-dev-ed.lightning.force.com",
+      "path": "/cometd/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "Geo",
+      "value": "Continent: EU Country: FI State:  City: HELSINKI",
+      "domain": "static.lightning.force.com",
+      "path": "/na213",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "BrowserId",
+      "value": "DAXBk-iJEeyHFK0LbhQg4Q",
+      "domain": ".force.com",
+      "path": "/",
+      "expires": 1686379585.157095,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "None",
+      "name": "BrowserId_sec",
+      "value": "DAXBk-iJEeyHFK0LbhQg4Q",
+      "domain": ".force.com",
+      "path": "/",
+      "expires": 1686379585.157138,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "sfdc-stream",
+      "value": "!vHHM+5Xj5fVRrItu8lHzQ+/LvOjHfOBj24cmDqGhQg1r1r/oK+nJQclyChNL22V1DGShzsBgVADXWLU=",
+      "domain": "itfreelance2-dev-ed.lightning.force.com",
+      "path": "/",
+      "expires": 1654854385.157191,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "force-proxy-stream",
+      "value": "!HqSU5/VLy8TxjqN5Ukjx2/S/4HRLj2G+7EFlxGIanrg7OpS3orHzLyXGUoYQTXgcPHfJz/nTric7uHo=",
+      "domain": "itfreelance2-dev-ed.lightning.force.com",
+      "path": "/",
+      "expires": 1654854385.157313,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "force-stream",
+      "value": "!vHHM+5Xj5fVRrItu8lHzQ+/LvOjHfOBj24cmDqGhQg1r1r/oK+nJQclyChNL22V1DGShzsBgVADXWLU=",
+      "domain": "itfreelance2-dev-ed.lightning.force.com",
+      "path": "/",
+      "expires": 1654854385.157354,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "CookieConsentPolicy",
+      "value": "0:1",
+      "domain": "itfreelance2-dev-ed.my.salesforce.com",
+      "path": "/",
+      "expires": 1686379585.938047,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "LSKey-c$CookieConsentPolicy",
+      "value": "0:1",
+      "domain": "itfreelance2-dev-ed.my.salesforce.com",
+      "path": "/",
+      "expires": 1686379585.938137,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "BrowserId",
+      "value": "DH3XX-iJEeyDsa91Jme2Jg",
+      "domain": ".salesforce.com",
+      "path": "/",
+      "expires": 1686379585.938174,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "None",
+      "name": "BrowserId_sec",
+      "value": "DH3XX-iJEeyDsa91Jme2Jg",
+      "domain": ".salesforce.com",
+      "path": "/",
+      "expires": 1686379585.938208,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "CookieConsentPolicy",
+      "value": "0:0",
+      "domain": "login.salesforce.com",
+      "path": "/",
+      "expires": 1686379586.817289,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "LSKey-c$CookieConsentPolicy",
+      "value": "0:0",
+      "domain": "login.salesforce.com",
+      "path": "/",
+      "expires": 1686379586.817326,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "None",
+      "name": "session",
+      "value": "1654843586883",
+      "domain": "login.salesforce.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "webact",
+      "value": "%7B%22l_vdays%22%3A-1%2C%22l_visit%22%3A0%2C%22session%22%3A1654843588169%2C%22l_search%22%3A%22%22%2C%22l_dtype%22%3A%22SFDC%20Network%22%2C%22l_page%22%3A%22SFDC%3Auk%3Alogin%22%2C%22l_page_url%22%3A%22https%3A%2F%2Fc.salesforce.com%2Flogin-messages%2Fuk%2Fpromos.html%22%2C%22counter%22%3A0%2C%22pv%22%3A1%2C%22f_visit%22%3A1654843588169%2C%22seg%22%3A%22non-customer%3Auk%22%2C%22d%22%3A%2270130000000sUW0%22%7D",
+      "domain": ".salesforce.com",
+      "path": "/",
+      "expires": 1686379587,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "v0",
+      "value": "SFDC%20Network%7C%5BSalesforce.com%20App%5D",
+      "domain": ".c.salesforce.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "lastvaliddriver",
+      "value": "SFDC%20Network%7C%5BSalesforce.com%20App%5D",
+      "domain": ".c.salesforce.com",
+      "path": "/",
+      "expires": 1655448387,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "c22",
+      "value": "SFDC%20Network",
+      "domain": ".c.salesforce.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "cvtdt",
+      "value": "SFDC%20Network",
+      "domain": ".c.salesforce.com",
+      "path": "/",
+      "expires": 1970203587,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "c40",
+      "value": "SFDC%20Network",
+      "domain": ".c.salesforce.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "v20",
+      "value": "Direct%20Landing",
+      "domain": ".c.salesforce.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "convertingPageUrl",
+      "value": "Direct%20Landing",
+      "domain": ".c.salesforce.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "inst",
+      "value": "APP_8c",
+      "domain": ".salesforce.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "rememberUn",
+      "value": "false",
+      "domain": ".salesforce.com",
+      "path": "/",
+      "expires": 1660027597.906322,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "com.salesforce.LocaleInfo",
+      "value": "us",
+      "domain": ".salesforce.com",
+      "path": "/",
+      "expires": 1660027597.906365,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "oinfo",
+      "value": "c3RhdHVzPUZSRUUmdHlwZT0zJm9pZD0wMEQ4YzAwMDAwOFBtQVU=",
+      "domain": ".salesforce.com",
+      "path": "/",
+      "expires": 1660027597.906389,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "disco",
+      "value": "8c:00D8c000008PmAU:0058c00000CDzs2:1",
+      "domain": ".salesforce.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "autocomplete",
+      "value": "1",
+      "domain": ".salesforce.com",
+      "path": "/",
+      "expires": 1660027598.376217,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "sid",
+      "value": "00D8c000008PmAU!AQYAQMvTpto16OSFO2ZV6Gio4zl_bIoUfW8Xx9NACsxqNtbPMqV.RBcyM2UNg8sxD.29rvBfVQm7FNBTm1M8XrH1ZG_4Tb2K",
+      "domain": "itfreelance2-dev-ed.my.salesforce.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "sid_Client",
+      "value": "c00000CDzs2c000008PmAU",
+      "domain": "itfreelance2-dev-ed.my.salesforce.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "clientSrc",
+      "value": "88.115.238.203",
+      "domain": "itfreelance2-dev-ed.my.salesforce.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "oid",
+      "value": "00D8c000008PmAU",
+      "domain": "itfreelance2-dev-ed.my.salesforce.com",
+      "path": "/",
+      "expires": 1717915598.376413,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "79eb100099b9a8bf",
+      "value": "3:false:.salesforce.com",
+      "domain": ".salesforce.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "sfdc_lv2",
+      "value": "KxG83HsXB9EWs2ZEZiDEDyBMLx9oB3f75S5q5CzJEDh/LiwMI4oTpUSmcX72VXZVk=",
+      "domain": ".salesforce.com",
+      "path": "/",
+      "expires": 1717915649.313444,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "BrowserId",
+      "value": "MsyDO-iJEeyK4sF_f38PZQ",
+      "domain": "itfreelance2-dev-ed--c.documentforce.com",
+      "path": "/",
+      "expires": 1686379650.231422,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "None",
+      "name": "BrowserId_sec",
+      "value": "MsyDO-iJEeyK4sF_f38PZQ",
+      "domain": "itfreelance2-dev-ed--c.documentforce.com",
+      "path": "/",
+      "expires": 1686379650.23145,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "sid",
+      "value": "00D8c000008PmAU!AQYAQNlThRqn7d_UrDroAcUV_TIFaaknLr09eGjXrUyC27rGkiyWU7YFdZqdlKGlJbO8xHs2VKE_pqxIyFNN3raPp22qXQwl",
+      "domain": "itfreelance2-dev-ed--c.documentforce.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "sid_Client",
+      "value": "c00000CDzs2c000008PmAU",
+      "domain": "itfreelance2-dev-ed--c.documentforce.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "clientSrc",
+      "value": "88.115.238.203",
+      "domain": "itfreelance2-dev-ed--c.documentforce.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "inst",
+      "value": "APP_8c",
+      "domain": "itfreelance2-dev-ed--c.documentforce.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "CookieConsentPolicy",
+      "value": "0:1",
+      "domain": "itfreelance2-dev-ed--c.documentforce.com",
+      "path": "/",
+      "expires": 1686379650.369008,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "LSKey-c$CookieConsentPolicy",
+      "value": "0:1",
+      "domain": "itfreelance2-dev-ed--c.documentforce.com",
+      "path": "/",
+      "expires": 1686379650.369058,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "None",
+      "name": "sid",
+      "value": "00D8c000008PmAU!AQYAQKKYM4uW1LjgureVU4neI0ogkQ3m2N.lkRBb.U.3jm886VIkkg84iqvoR_qwIKW0FWO_cu8i0Jm5gTvxV0SvXr1Px8Ct",
+      "domain": "itfreelance2-dev-ed.lightning.force.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "sid_Client",
+      "value": "c00000CDzs2c000008PmAU",
+      "domain": "itfreelance2-dev-ed.lightning.force.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "clientSrc",
+      "value": "88.115.238.203",
+      "domain": "itfreelance2-dev-ed.lightning.force.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "inst",
+      "value": "APP_8c",
+      "domain": ".force.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "CookieConsentPolicy",
+      "value": "0:1",
+      "domain": "itfreelance2-dev-ed.lightning.force.com",
+      "path": "/",
+      "expires": 1686379651.31792,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "LSKey-c$CookieConsentPolicy",
+      "value": "0:1",
+      "domain": "itfreelance2-dev-ed.lightning.force.com",
+      "path": "/",
+      "expires": 1686379651.318025,
+      "httpOnly": false,
+      "secure": false
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://c.salesforce.com",
+      "localStorage": [
+        {
+          "name": "webactls",
+          "value": "{\"chat\":0,\"kxsfdc\":{\"segs\":\"\"},\"l_cloud\":\"No Cloud\",\"lastvaliddriver\":\"SFDC Network|[Salesforce.com App]\"}"
+        }
+      ]
+    },
+    {
+      "origin": "https://itfreelance2-dev-ed.lightning.force.com",
+      "localStorage": [
+        {
+          "name": "GlobalValueProviders__MUTEX_X",
+          "value": "1476100000d8d48fc763957|1654843658656"
+        },
+        {
+          "name": "$AuraClientService.token$",
+          "value": "eyJub25jZSI6ImFrZC1GSUk3SXdiT1R4MGJ3dV9tSjRYWVd6M1dmZ3RwSkMwWEN6cHZUcGdcdTAwM2QiLCJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6IntcInRcIjpcIjAwRDFWMDAwMDAwbHRLY1wiLFwidlwiOlwiMDJHMVYwMDAwMDAwWXVLXCIsXCJhXCI6XCJjYWltYW5zaWduZXJcIn0iLCJjcml0IjpbImlhdCJdLCJpYXQiOjE2NTQ4NDM2NTEyMDYsImV4cCI6MH0=..55L0F3jtH8QNOuBZVRDTHGFyKW9TbKSiDYlTCIwWnRo="
+        },
+        {
+          "name": "leap-notification-manager_scenarios-last-checked",
+          "value": "1654843654629"
+        },
+        {
+          "name": "emp.cometd",
+          "value": "{\"eventType\":\"functionCall\",\"nodeId\":null,\"functionName\":\"setDebugFlag\",\"functionParams\":{\"debugFlag\":false},\"time\":1654843653750}"
+        },
+        {
+          "name": "appContextId",
+          "value": "06m8c000002yUP3AAM"
+        }
+      ]
+    }
+  ]
+}
