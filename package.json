@@ -1,7 +1,7 @@
 {
-	"name": "playwright-typescipt-angular",
+	"name": "playwright-typescipt",
 	"version": "1.0.0",
-	"description": "Playwright with Typescript for Angular App",
+	"description": "Playwright with Typescript for Salesforce App",
 	"main": "index.js",
 	"scripts": {
 		"test:one": "npx playwright test TC_01_messageWithTestUrl.test.ts --project=Chrome",
