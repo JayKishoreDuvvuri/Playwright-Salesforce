@@ -2,7 +2,7 @@
 
 An example project demonstrating automation of playwright tests using TypeScript
 
-#### Application Under Test
+#### Application Under Test 
 
 We are using Salesforce website as the Application Under Test. This App is a **Salesforce** Frontend
 
