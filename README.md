@@ -1,6 +1,6 @@
 ### Playwright with TypeScript for Salesforce Frontend
 
-An example project demonstrating automation of playwright tests using TypeScript
+An example project demonstrating automation of playwright tests using TypeScript 
 
 #### Application Under Test 
 
