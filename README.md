@@ -9,7 +9,7 @@ We are using Salesforce website as the Application Under Test. This App is a **S
 - URL: https://itfreelance2-dev-ed.lightning.force.com/lightning/page/chatter
 - OS : macOS
 - IDE : Visual Studio Code 
- 
+  
 #### Scenario 1
 
 ```bash
